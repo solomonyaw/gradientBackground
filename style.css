@@ -25,18 +25,18 @@ h3 {
     letter-spacing: 0.01em;
 
 }
-#color1,#color2{
+.color1,.color2{
 height: 100px;
 width: 100px;
 transform: scale(1.1);
 }
-#color1:hover{
+.color1:hover{
    
     transform: rotate(45deg);
     transition-duration: 20ms;
 
 }
-#color2:hover{
+.color2:hover{
    
     transform: rotate(45deg);
     transition-duration: 20ms;
