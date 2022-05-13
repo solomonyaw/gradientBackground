@@ -56,3 +56,8 @@ img{
 img:hover{
     transform: scale(1.1);
 }
+h3{
+    background-color: aliceblue;
+    color: rgb(192, 24, 24);
+    border: 5px solid black ;
+}
